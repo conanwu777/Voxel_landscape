@@ -2,7 +2,7 @@
 
 Minecraft style voxel terrain engine made from scratch using OpenGL in C++.
 
-This project is done in collaboration with Liam Dehaudt during our visit at [Unit Factory](https://unit.ua/en/) in Kiev, Ukraine
+This project is done in collaboration with Liam Dehaudt during our visit at [Unit Factory](https://unit.ua/en/) in Kiev, Ukraine.
 
 ## Showcase Video
 [![Voxel Video](5.png)](https://www.youtube.com/watch?v=1Bxgr2ItPq4 "Voxel Landscape Engine")
@@ -16,6 +16,8 @@ This project is done in collaboration with Liam Dehaudt during our visit at [Uni
 * Different player modes
 * Day-Night shift
 * Runs at >~ 50 FPS in full screen mode on iMac
+* Virtually infinite map (larger than what one can possible visit in days, then it might start to repeat after that)
+* Rendering over 160 blocks at any direction at any given time, which make 26214400 (320 * 320 * 256) possiblly visiable blocks in view
 
 ## Screenshots
 
