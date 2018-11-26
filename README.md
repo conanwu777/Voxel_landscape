@@ -2,8 +2,10 @@
 
 Minecraft style voxel terrain engine made from scratch using OpenGL in C++.
 
+This project is done in collaboration with Liam Dehaudt during our visit at [Unit Factory](https://unit.ua/en/) in Kiev, Ukraine
+
 ## Showcase Video
-[![Voxel Video](5.png)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Voxel Landscape Engine")
+[![Voxel Video](5.png)](https://www.youtube.com/watch?v=1Bxgr2ItPq4 "Voxel Landscape Engine")
 
 ## Features
 
