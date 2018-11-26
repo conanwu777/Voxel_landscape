@@ -3,7 +3,7 @@
 Minecraft style voxel terrain engine made from scratch using OpenGL in C++.
 
 ## Showcase Video
-[![Voxel Video]5.png](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Voxel Landscape Engine")
+[![Voxel Video](5.png)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Voxel Landscape Engine")
 
 ## Screenshots
 
