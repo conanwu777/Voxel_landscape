@@ -5,16 +5,6 @@ Minecraft style voxel terrain engine made from scratch using OpenGL in C++.
 ## Showcase Video
 [![Voxel Video](5.png)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Voxel Landscape Engine")
 
-## Screenshots
-
-![alt text](1.jpg)
-
-![alt text](2.jpg)
-
-![alt text](3.jpg)
-
-![alt text](4.jpg)
-
 ## Features
 
 * Snow, rock, grass and sand block type
@@ -24,6 +14,16 @@ Minecraft style voxel terrain engine made from scratch using OpenGL in C++.
 * Different player modes
 * Day-Night shift
 * Runs at >~ 50 FPS in full screen mode on iMac
+
+## Screenshots
+
+![alt text](1.jpg)
+
+![alt text](2.jpg)
+
+![alt text](3.jpg)
+
+![alt text](4.jpg)
 
 ## Comiling and Running
 
