@@ -2,7 +2,7 @@
 
 Minecraft style voxel terrain engine made from scratch using OpenGL in C++.
 
-This project is done in collaboration with my programming partner Liam Dehaudt during our visit at [Unit Factory](https://unit.ua/en/) in Kiev, Ukraine. I am in charge of the overall planning, terrian and cave generation, day/night change, shaders and art.
+This project is done in collaboration with my programming partner Liam Dehaudt during our visit at [Unit Factory](https://unit.ua/en/) in Kiev, Ukraine. I am in charge of the Perlin noise terrian/block type and cave generation, ground-movement stablization, day/night change, shaders and art.
 
 ## Showcase Video
 [![Voxel Video](5.png)](https://www.youtube.com/watch?v=1Bxgr2ItPq4 "Voxel Landscape Engine")
